@@ -4,7 +4,7 @@
   <title><![CDATA[Narrow Margin]]></title>
   <link href="http://gladyoucame.github.io/atom.xml" rel="self"/>
   <link href="http://gladyoucame.github.io/"/>
-  <updated>2013-11-10T02:11:06+08:00</updated>
+  <updated>2013-11-10T02:14:46+08:00</updated>
   <id>http://gladyoucame.github.io/</id>
   <author>
     <name><![CDATA[bill]]></name>
@@ -39,7 +39,7 @@ $$</p>
 </pre></td><td class="code"><pre><code class="c++"><span class="line"><span class="cp">#include &lt;iostream&gt;</span>
 </span><span class="line">
 </span><span class="line"><span class="kt">int</span> <span class="n">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span><span class="o">*</span> <span class="n">argv</span><span class="p">[])</span> <span class="p">{</span>
-</span><span class="line">	<span class="n">std</span><span class="o">::</span><span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">&quot;hello, world&quot;</span> <span class="o">&lt;&lt;</span> <span class="n">std</span><span class="o">::</span><span class="n">endl</span><span class="p">;</span>
+</span><span class="line">  <span class="n">std</span><span class="o">::</span><span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">&quot;hello, world&quot;</span> <span class="o">&lt;&lt;</span> <span class="n">std</span><span class="o">::</span><span class="n">endl</span><span class="p">;</span>
 </span><span class="line"><span class="p">}</span>
 </span></code></pre></td></tr></table></div></figure></notextile></div>
 
